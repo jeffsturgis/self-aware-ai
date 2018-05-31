@@ -1,3 +1,3 @@
 <?php
 
-include("lib/func.php");
+include("func.php");
